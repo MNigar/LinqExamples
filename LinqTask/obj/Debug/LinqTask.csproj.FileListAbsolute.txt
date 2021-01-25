@@ -1,0 +1,10 @@
+D:\C#course\LinqTask\LinqTask\bin\Debug\LinqTask.exe.config
+D:\C#course\LinqTask\LinqTask\bin\Debug\LinqTask.exe
+D:\C#course\LinqTask\LinqTask\bin\Debug\LinqTask.pdb
+D:\C#course\LinqTask\LinqTask\obj\Debug\LinqTask.csprojAssemblyReference.cache
+D:\C#course\LinqTask\LinqTask\obj\Debug\LinqTask.Form1.resources
+D:\C#course\LinqTask\LinqTask\obj\Debug\LinqTask.Properties.Resources.resources
+D:\C#course\LinqTask\LinqTask\obj\Debug\LinqTask.csproj.GenerateResource.cache
+D:\C#course\LinqTask\LinqTask\obj\Debug\LinqTask.csproj.CoreCompileInputs.cache
+D:\C#course\LinqTask\LinqTask\obj\Debug\LinqTask.exe
+D:\C#course\LinqTask\LinqTask\obj\Debug\LinqTask.pdb
